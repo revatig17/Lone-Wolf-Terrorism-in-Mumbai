@@ -2,6 +2,7 @@
 
 <img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/237e315a-ec85-47f4-a86e-abb2934a6420" />
 
+
                                              
 Over the past few years, countries across the globe are facing the menace of lone wolf terrorist attacks. These attacks perpetrated by individuals with limited or no organizational support has begun to pose major challenge to security forces across the world. Studies have attributed the cause behind lone wolf terrorist incidents as loneliness, mental illness, societal isolation, indoctrination of vulnerable youths from radical groups etc. Additionally, it has also been noticed that petty criminals who have committed crimes such as robbery, manslaughter etc. have also been seen susceptible to radicalism when they come in contact with jailed terrorists.  Over the years organizations like ISIS, al-Qaeda have shifted their method of planning and execution from conventional group attacks to attacks committed by a single perpetrator. 
 
