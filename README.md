@@ -1,6 +1,6 @@
 # Lone-Wolf-Terrorism-in-Mumbai
 
-                                              **Mumbai and Lone Wolf Terrorism**
+**Mumbai and Lone Wolf Terrorism**
                                               
 Over the past few years, countries across the globe are facing the menace of lone wolf terrorist attacks. These attacks perpetrated by individuals with limited or no organizational support has begun to pose major challenge to security forces across the world. Studies have attributed the cause behind lone wolf terrorist incidents as loneliness, mental illness, societal isolation, indoctrination of vulnerable youths from radical groups etc. Additionally, it has also been noticed that petty criminals who have committed crimes such as robbery, manslaughter etc. have also been seen susceptible to radicalism when they come in contact with jailed terrorists.  Over the years organizations like ISIS, al-Qaeda have shifted their method of planning and execution from conventional group attacks to attacks committed by a single perpetrator. 
 In the last few years there have been several incidents of lone wolf attacks across many countries. For instance, on 14th August 2018, a car crashed into a barrier outside the Houses of Parliament in London. It was the second incident at this location, with the first one having taken place in the year 2017. 
